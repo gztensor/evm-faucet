@@ -1,6 +1,6 @@
 .idea
+.git
 .github
 **/node_modules
-.env
 .env.dist
-build
+/build

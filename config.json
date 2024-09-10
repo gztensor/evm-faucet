@@ -12,7 +12,7 @@
   "evmchains": [
     {
       "ID": "SUBTENSOR",
-      "NAME": "Subtensor (Testnet)",
+      "NAME": "Subtensor",
       "TOKEN": "TAO",
       "RPC": "https://evm-testnet.dev.opentensor.ai/",
       "CHAINID": 945,

@@ -232,7 +232,8 @@ const FaucetForm = (props: any) => {
         }
     }
 
-    function calculateBaseUnit(amount: string = "0", decimals: number = 18): BigInt {
+    // TODO: Replacing default value for decimals to 9 is a quick fix, find the proper one.
+    function calculateBaseUnit(amount: string = "0", decimals: number = 9): BigInt {
         for(let i = 0; i < decimals; i++) {
             amount += "0"
         }

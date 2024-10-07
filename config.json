@@ -21,7 +21,7 @@
       "MAX_PRIORITY_FEE": "100",
       "MAX_FEE": "100",
       "DRIP_AMOUNT": 1,
-      "DECIMALS": 9,
+      "DECIMALS": 18,
       "RECALIBRATE": 30,
       "RATELIMIT": {
         "MAX_LIMIT": 1,
